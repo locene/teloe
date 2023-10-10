@@ -1,0 +1,7 @@
+= Teloe
+
+A mobile application for TROW.
+
+== License
+
+link:LICENSE[AGPL-3.0]
